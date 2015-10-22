@@ -1,1 +1,1 @@
-Online restaurant
+Sample Online restaurant application for demonstration.
